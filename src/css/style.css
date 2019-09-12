@@ -1,0 +1,23 @@
+.alignCenter{
+    text-align: center;
+    padding-top:15rem;
+}
+
+.alignButtonsTables{
+    margin-top: 20px !important;
+    margin-right: 20px !important;
+}
+.alignDiv{
+    text-align: center;
+    text-align: -webkit-center;
+}
+
+
+html{
+    background-color: grey;
+    
+}
+
+.styleFuncScreen{
+    border: 3px;
+}
